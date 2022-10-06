@@ -1,0 +1,1 @@
+All project resources including images, sounds and other resources
