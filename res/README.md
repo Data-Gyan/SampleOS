@@ -1,1 +1,4 @@
-All project resources including images, sounds and other resources
+All project static resources including -
+A. images:
+B: sounds:
+C: icons
