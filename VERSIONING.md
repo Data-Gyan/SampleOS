@@ -1,1 +1,1 @@
-version 0.0.1  : First internal deaft. Not to be released.
+version 0.0.2 : Intermediate internal draft. Not to be released.
